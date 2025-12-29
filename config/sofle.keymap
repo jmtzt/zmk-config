@@ -115,7 +115,7 @@
 &kp LA(RS(N0))  &kp LG(LA(Z))  &kp LG(LA(X))  &kp LG(LA(C))                 &kp LS(LG(NUMBER_4))    &kp LS(LG(N5))                    &kp LS(LG(NUMBER_2))  &trans          &trans  &trans             &trans             &trans
 &trans          &kp LA(Q)      &kp LS(LA(W))  &kp LS(LA(LC(LG(NUMBER_4))))  &kp LS(LG(LA(LC(N5))))  &kp LA(T)                         &kp PG_UP             &trans          &trans  &kp LC(LA(LG(O)))  &kp LG(LS(MINUS))  &kp LG(PLUS)
 &trans          &kp LS(LA(A))  &kp LS(LA(S))  &kp LS(LA(D))                 &kp LA(F)               &trans                            &kp LEFT_ARROW        &kp DOWN_ARROW  &kp UP  &kp RIGHT          &kp DEL            &kp BSPC
-&trans          &kp K_UNDO     &kp K_CUT      &kp K_COPY                    &kp K_PASTE             &trans          &trans    &trans  &trans                &trans          &trans  &trans             &trans             &trans
+&trans          &kp LG(Z)      &kp LG(X)      &kp LG(C)                     &kp LG(V)               &trans          &trans    &trans  &trans                &trans          &trans  &trans             &trans             &trans
                                &trans         &trans                        &trans                  &trans          &trans    &trans  &trans                &trans          &trans  &trans
             >;
 
