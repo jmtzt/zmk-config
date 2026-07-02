@@ -3,4 +3,6 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
+    # Keep this aligned with config/west.yml, which tracks ZMK main for the
+    # Zephyr 4.1 board-variant changes.
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
