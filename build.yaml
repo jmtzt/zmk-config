@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano
-    shield: sofle_left nice_oled
+    shield: sofle_left
   - board: nice_nano
-    shield: sofle_right nice_oled
+    shield: sofle_right
   - board: nice_nano
     shield: settings_reset
